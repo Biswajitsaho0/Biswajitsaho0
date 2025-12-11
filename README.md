@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biswajit Sahoo</h1>
-<h3 align="center">A passionate beginner Full Stack Developer and B.Tech CSE student from India, focused on creating innovative tech solutions for business and real-world challenges.</h3>
+<h3 align="center">A passionate beginner Full Stack Developer and B.Tech CSE student from Gita Autonomous College,BBSR .Focused on creating innovative tech solutions for business and real-world challenges.</h3>
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/biswajit-sahoo-456b6a365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/biswajitsaho0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/share/1A4w4r9eU6/" target="_blank">
